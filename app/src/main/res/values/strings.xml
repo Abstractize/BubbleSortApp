@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BubbleSort App</string>
+    <string name="generate">Generate</string>
+    <string name="bubble_sort">Bubble Sort</string>
+    <string name="liststring">listString</string>
+    <string name="please_generate_a_list">Please generate a List</string>
+</resources>
